@@ -79,15 +79,28 @@
   ],
   "burgers": [
     {
-      "nome": "Rafael",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
+      "nome": "Maya",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
       "opcionais": [
         "Bacon",
-        "Salame"
+        "Salame",
+        "Cheddar"
       ],
-      "status": "Solicitado",
-      "id": 1
+      "status": "Em produção",
+      "id": 2
+    },
+    {
+      "nome": "Rafael",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
+      ],
+      "status": "Em produção",
+      "id": 3
     }
   ]
 }
